@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 HamburgueriaZ 🍔
 
 Projeto desenvolvido no Android Studio como atividade da faculdade.
