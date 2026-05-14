@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="todo">TODO</string>
+    <string name="r_0">R$ 0</string>
+    <string name="resumo_do_pedido">Resumo do pedido</string>
+    <string name="fa_a_seu_pedido">faça seu pedido!</string>
+    <string name="hamburgueriaz">hamburgueriaz!</string>
+    <string name="fazer_pedido">fazer pedido</string>
+    <string name="queijo">Queijo</string>
+    <string name="nome">NOME</string>
+    <string name="onion_rings">Onion Rings</string>
+    <string name="_0">0</string>
+    <string name="quantidade">quantidade!</string>
+    <string name="bacon">Bacon</string>
+</resources>
