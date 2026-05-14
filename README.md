@@ -43,6 +43,17 @@ Intents
 Estruturas condicionais
 Lógica de programação no Android
 
+
+## 🔮 Melhorias futuras
+
+- Integração com banco de dados
+- Sistema de login
+- Histórico de pedidos
+- Interface moderna com Material Design
+- Integração com API
+
+
+
 ✍️ Autor
 Rafael Gouveia
 GitHub: https://github.com/leafarbend
