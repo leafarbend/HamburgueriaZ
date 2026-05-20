@@ -33,7 +33,7 @@ XML (layouts)
 
 🚀 Como executar o projeto
 Clone o repositório:
-git clone https://github.com/SEU-USUARIO/HamburgueriaZ.git
+git clone https://github.com/leafarbend/HamburgueriaZ.git
 Abra o projeto no Android Studio
 Aguarde o Gradle sincronizar
 Execute em um emulador Android ou dispositivo físico
